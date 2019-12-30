@@ -6,7 +6,7 @@ You're **allowed and encouraged** to use third party libraries and **framework o
 
 ### Technology
 
-- Linux Ubuntu >= 16.06
+- Linux Ubuntu (LTS version) >= 16.04
 - PHP >= 7 or NodeJS >= 8
 - Persist data to MySQL, Redis, Elasticsearch.
 

@@ -6,7 +6,7 @@ You're **allowed and encouraged** to use third party libraries and **framework o
 
 ### Technology
 
-- PHP >= 7 or NodeJS >= 14
+- PHP >= 7 or NodeJS >= 14 or Python >= 3
 - Persist data to MySQL or MongoDB.
 
 ## Instructions
